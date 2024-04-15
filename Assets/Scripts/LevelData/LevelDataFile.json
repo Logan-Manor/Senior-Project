@@ -1,0 +1,35 @@
+{
+  "levels": 
+  [
+    {
+      "LevelName": "Beginner's Ground",
+      "ImagePath":  "Levels/Level-1",
+      "IsUnlocked": true,
+      "BronzeTime": 45.0,
+      "SilverTime": 35.0,
+      "GoldTime": 25.0,
+      "BestTime": 40.0,
+      "Difficulty": "Easy"
+    },
+    {
+      "LevelName": "The Forest Trail",
+      "ImagePath": "Levels/Level-2",
+      "IsUnlocked": false,
+      "BronzeTime": 60.0,
+      "SilverTime": 50.0,
+      "GoldTime": 40.0,
+      "BestTime": 45.0,
+      "Difficulty": "Medium"
+    },
+    {
+      "LevelName": "Mountain Peak",
+      "ImagePath": "Levels/Level-3",
+      "IsUnlocked": false,
+      "BronzeTime": 30.0,
+      "SilverTime": 25.0,
+      "GoldTime": 15.0,
+      "BestTime": 10.0,
+      "Difficulty": "Hard"
+    }
+  ]
+}
